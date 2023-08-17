@@ -28,6 +28,6 @@ If you'd like to collaborate, discuss potential projects, or have any questions,
 
 🌐 Portfolio: https://github.com/mwebaze-nicho
 📧 Email: nickmwebaze@gmail.com
-💼 LinkedIn: linkedin.com/in/mwebaze-nicholas-a6b021153
+💼 LinkedIn: https://www.linkedin.com/in/mwebaze-nicholas-a6b021153
 
 Let's create amazing things together! 😄
