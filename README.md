@@ -4,7 +4,7 @@ I'm a passionate full-stack web developer with expertise in the MERN stack and s
 
 ### 🚀 Skills and Technologies
 
-- Frontend: HTML, CSS, JavaScript, React.js
+- Frontend: HTML, CSS, JavaScript, React.js, React-redux.
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Security: OAuth, Passport, Crypto.js
@@ -28,6 +28,6 @@ If you'd like to collaborate, discuss potential projects, or have any questions,
 
 🌐 Portfolio: https://github.com/mwebaze-nicho
 📧 Email: nickmwebaze@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/mwebaze-nicholas-a6b021153
+💼 LinkedIn: https://www.linkedin.com/in/mwebaze-nicholas
 
 Let's create amazing things together! 😄
