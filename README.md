@@ -16,7 +16,7 @@ I'm a passionate full-stack web developer with expertise in the MERN stack and s
 - Developed responsive and interactive web applications using the MERN stack.
 - Implemented secure user authentication and authorization with OAuth and Passport.
 - Created RESTful APIs to handle data exchange between the frontend and backend.
-- Worked with various databases, including MongoDB, to manage data efficiently.
+- Worked with a database, i.e. MongoDB, to manage data efficiently.
 
 ### 👨‍💻 Open to Collaboration
 
