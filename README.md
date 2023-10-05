@@ -6,7 +6,7 @@ I'm a passionate full-stack web developer with expertise in the MERN stack and s
 
 - Frontend: HTML, CSS, JavaScript, React.js, React-redux.
 - Backend: Node.js, Express.js
-- Database: MongoDB ![MongoDB Icon](mongodb-icon.png)
+- Database: MongoDB ![MongoDB Icon](https://th.bing.com/th/id/OIP.JhdchOb0n1bwrlfhGqycbgHaFG?w=226&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)
 - Version Control: Git, GitHub
 - Deployment: Render, Netlify
 
