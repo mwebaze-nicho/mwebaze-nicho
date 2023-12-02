@@ -25,7 +25,5 @@ I'm enthusiastic about collaborating on open-source projects, contributing to th
 If you'd like to collaborate, discuss potential projects, or have any questions, feel free to reach out to me. I'm always eager to connect with fellow developers and explore new opportunities.
 
 🌐 Portfolio: https://mwebaze-nicho.netlify.app
-📧 Email: mwebazenicholas6@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/mwebaze-nicholas
 
 Let's create amazing things together! 😄
