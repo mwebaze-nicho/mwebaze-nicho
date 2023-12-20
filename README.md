@@ -4,11 +4,11 @@ I'm a passionate full-stack web developer with expertise in the MERN stacks. I h
 
 ### 🚀 Skills and Technologies
 
-- Frontend: HTML, CSS, JavaScript, React.js, React-redux.
+- Frontend: HTML, CSS, JavaScript, React.js, React-redux, Tailwindcss.
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Version Control: Git, GitHub
-- Deployment: Render, Netlify
+- Deployment: Render, Netlify, Vercel
 
 ### 💼 Experience
 
@@ -24,6 +24,6 @@ I'm enthusiastic about collaborating on open-source projects, contributing to th
 
 If you'd like to collaborate, discuss potential projects, or have any questions, feel free to reach out to me. I'm always eager to connect with fellow developers and explore new opportunities.
 
-🌐 Portfolio: https://mwebaze-nicho.netlify.app
+🌐 Portfolio: https://mwebaze-nicho.netlify.app shifted to https://mwebaze.vercel.app
 
 Let's create amazing things together! 😄
