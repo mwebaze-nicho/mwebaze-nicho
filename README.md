@@ -4,7 +4,7 @@ I'm a passionate full-stack web developer with expertise in the MERN stacks. I h
 
 ### 🚀 Skills and Technologies
 
-- Frontend: HTML, CSS, JavaScript, React.js, Next.js React-redux, Tailwindcss.
+- Frontend: HTML, CSS, JavaScript, React.js, Next.js, React-redux, Tailwindcss.
 - Backend: Node.js, Express.js
 - Database: MongoDB, Postgresql
 - Tools: VsCode, Studio3T, PgAdmin, Postman
